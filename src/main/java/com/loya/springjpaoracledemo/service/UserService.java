@@ -3,6 +3,8 @@ package com.loya.springjpaoracledemo.service;
 import com.loya.springjpaoracledemo.dao.UserDao;
 import com.loya.springjpaoracledemo.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.MessageSource;
+import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -39,4 +41,6 @@ public class UserService {
     public void deleteAllUsers() {
         this.userDao.deleteAll();
     }
+
+
 }
