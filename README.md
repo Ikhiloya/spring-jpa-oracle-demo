@@ -4,8 +4,11 @@ A sample demo app that shows how to create a RESTful webservice using Spring Boo
 ## Build
 #### mvn clean package
 
-## Run App
-#### mvn spring-boot:run 
+## Run App with either oracle or mysql profile
+#### mvn spring-boot:run -Dspring.profiles.active=oracle 
+#### mvn spring-boot:run -Dspring.profiles.active=mysql 
+
+
 
 
 #### Possible contributing ideas:
