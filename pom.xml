@@ -40,6 +40,16 @@
             <scope>test</scope>
         </dependency>
 
+        <!--Oracle database driver -->
+        <dependency>
+            <groupId>com.oracle</groupId>
+            <artifactId>ojdbc7</artifactId>
+            <!--            <version>12.1.0.2.0</version>-->
+            <version>12.1.0</version>
+            <!--            <scope>system</scope>-->
+            <!--            <systemPath>${project.basedir}/src/main/resources/oracle/ojdbc7.jar</systemPath>-->
+        </dependency>
+
         <!--MySQL database driver -->
         <dependency>
             <groupId>mysql</groupId>
