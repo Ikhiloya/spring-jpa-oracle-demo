@@ -29,5 +29,8 @@ A sample demo app that shows how to create a RESTful webservice using Spring Boo
 5. Submit a pull request
 
 _ _ _
-## Medium Article
+## Medium Articles
 - [Developing RESTful web service using Spring Boot, Spring Data JPA and Oracle Database](https://medium.com/skillhive/spring-boot-spring-data-jpa-and-oracle-database-c4af89f727e0)
+- [Internationalization in Spring Boot](https://medium.com/skillhive/internalization-in-spring-boot-22f4fa82f132)
+
+
