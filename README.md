@@ -27,3 +27,7 @@ A sample demo app that shows how to create a RESTful webservice using Spring Boo
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
+
+_ _ _
+## Medium Article
+- [Developing RESTful web service using Spring Boot, Spring Data JPA and Oracle Database](https://medium.com/skillhive/spring-boot-spring-data-jpa-and-oracle-database-c4af89f727e0)
